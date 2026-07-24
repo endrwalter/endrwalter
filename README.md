@@ -13,10 +13,10 @@ My focus is on writing robust, production-ready code. I am experienced in utiliz
 * **Domain Expertise:** Trustworthy AI, Multimodal Deep Learning, Clinical Data Pipelines
 
 ### 🔬 Featured Work & Research
-* **PRISM (Platform for Real-time Interoperable Smart Monitoring):** Co-developed a smart clinical dashboard, collaborating with neurologists to integrate AI risk predictions into real-world workflows[cite: 7].
 * **Uncertainty Quantification in Clinical Settings:** Engineered frameworks to address standard uncertainty quantification failures under extreme clinical class imbalance (including patient risk-ranking algorithms based on rescaled decision entropy, $h_\tau$).
 * **Generative AI for Healthcare:** Provided core software engineering and repository architecture support for a novel diffusion model enabling cross-modal synthesis of missing clinical data modalities.
 * **Predictive Modeling for Neurodegenerative Diseases:** Developed and open-sourced robust clinical ML pipelines for Parkinson's Disease and Multiple Sclerosis prognosis.
+* **PRISM (Platform for Real-time Interoperable Smart Monitoring):** Co-developed a smart clinical dashboard, collaborating with neurologists to integrate AI risk predictions into real-world workflows.
 
 ### 📫 Let's Connect
 * **LinkedIn:** [walter endrizzi](https://www.linkedin.com/in/walter-endrizzi-6587551b8/)
