@@ -6,12 +6,7 @@ I am a Data Scientist and Machine Learning professional currently completing my 
 
 I specialize in writing robust, production-ready code. I am experienced in utilizing HPC clusters, Slurm, and Docker to ensure scalable and reproducible experiments, bridging the gap between algorithmic research and clinical applications.
 
-### 🛠️ Tech Stack
-* **Languages & Core:** Python, SQL, Bash, Git, Docker, Slurm, HPC
-* **ML & Deep Learning:** PyTorch, scikit-learn, pandas, NumPy, seaborn, SHAP, Weights & Biases
-* **Domain Focus:** Multimodal Deep Learning, Trustworthy AI, Clinical Data Pipelines
-
-### 🔬 Featured Work & Research
+### Featured Work & Research
 * **Uncertainty Quantification in Clinical Settings:** Engineered frameworks to address standard uncertainty quantification failures under extreme clinical class imbalance, including patient risk-ranking algorithms based on rescaled decision entropy ($h_\tau$). *(Submitted to [BioData Mining](), [code](https://github.com/endrwalter/uncertainty_ml))*
 * **Generative AI for Healthcare:** Provided core software engineering and repository architecture support for a diffusion model enabling cross-modal synthesis of missing clinical data modalities. *(Published in [PLOS Computational Biology](https://journals.plos.org/ploscompbiol/article?id=10.1371/journal.pcbi.1013455), [code](https://github.com/r-marchesi/coherent-genAI))*
 * **Predictive Modeling for Neurodegenerative Diseases:** Developed robust clinical machine learning pipelines for Parkinson's Disease and Multiple Sclerosis prognosis. *(Published in [npj Parkinson's Disease]( https://doi.org/10.64898/2026.07.06.26357357e) and [European Journal of Neurology](https://doi.org/10.1111/ene.70417), [code](https://github.com/endrwalter/pd_motor_symptoms))*
